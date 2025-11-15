@@ -8,7 +8,7 @@ Nuestro objetivo es crear una herramienta ergonómica inteligente que ayude a lo
 
 ## Tecnologías Utilizadas
 
-- **HTML5** + **CSS3** (interfaz responsiva)
+- **HTML5** + **CSS** (interfaz responsiva)
 - **Bootstrap 5** (diseño y componentes)
 - **JavaScript (AOS)** (animaciones dinámicas)
 - **GitHub Pages** (implementación del sitio)
